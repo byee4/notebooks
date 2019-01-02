@@ -43,7 +43,7 @@ dependencies:
     - centrosome
     - imagej
     - inflect
-    - prokaryote==2.3.2
+    - prokaryote==2.4.1
     - javabridge==1.0.15
-    - python-bioformats==1.3.1
+    - python-bioformats==1.5.2
     - git+https://github.com/CellProfiler/CellProfiler.git@master
